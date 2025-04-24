@@ -23,8 +23,8 @@ email: sxwvnart@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   I make music in my free time, but I'm currently studying in the IT field. 
   The paranoid scientist meet the vulnerable artist. Welcome. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sxwvn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sxwvnt
 github_username:  sxwvn
 
@@ -76,10 +76,11 @@ exclude:
 - LICENSE.md
 
 Blog: /blog
+About: /about/
 
 # Add general links to site pages here
 links:
-  About: /about/
+  # currently empty
   
 
 # Exclude from processing.
