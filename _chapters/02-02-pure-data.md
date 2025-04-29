@@ -46,7 +46,7 @@ Get your shovel, make a hole deep enough to bury a body.
 $ mkdir hole
 ```
 
-Now I'm going to transfer a few amounts of things that I trust you will take good care of. Because unlike me, you are *strong.&#32;*You will not let the toughest winter bring you down. You are *brave*. You're not afraid to deal with the beasts from your nightmares head on. You are as *solid* as the rocks on where your family's cabin was built and remained for generations to generations. 
+Now I'm going to transfer a few amounts of things that I trust you will take good care of. Because unlike me, you are *strong. *You will not let the toughest winter bring you down. You are *brave*. You're not afraid to deal with the beasts from your nightmares head on. You are as *solid* as the rocks on where your family's cabin was built and remained for generations to generations. 
 
 *You are everything I ever wanted to become.*
 
