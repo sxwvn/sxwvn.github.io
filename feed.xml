@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sxwvn.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sxwvn.github.io/" rel="alternate" type="text/html" /><updated>2025-04-24T01:34:32-04:00</updated><id>https://sxwvn.github.io/feed.xml</id><title type="html">The SXWVN Website</title><subtitle>I make music in my free time, but I&apos;m currently studying in the IT field.  The paranoid scientist meet the vulnerable artist. Welcome. </subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://sxwvn.github.io/blog/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-04-23T23:16:09-04:00</published><updated>2025-04-23T23:16:09-04:00</updated><id>https://sxwvn.github.io/blog/welcome-to-jekyll</id><content type="html" xml:base="https://sxwvn.github.io/blog/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sxwvn.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sxwvn.github.io/" rel="alternate" type="text/html" /><updated>2025-04-29T08:04:00+07:00</updated><id>https://sxwvn.github.io/feed.xml</id><title type="html">The SXWVN Website</title><subtitle>I make music in my free time, but I&apos;m currently studying in the IT field.  The paranoid scientist meet the vulnerable artist. Welcome. </subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://sxwvn.github.io/blog/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-04-24T10:16:09+07:00</published><updated>2025-04-24T10:16:09+07:00</updated><id>https://sxwvn.github.io/blog/welcome-to-jekyll</id><content type="html" xml:base="https://sxwvn.github.io/blog/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -14,4 +14,35 @@
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">The Villain In Red Suit</title><link href="https://sxwvn.github.io/blog/villain-in-red-suit" rel="alternate" type="text/html" title="The Villain In Red Suit" /><published>2024-10-14T10:20:20+07:00</published><updated>2024-10-14T10:20:20+07:00</updated><id>https://sxwvn.github.io/blog/villain-in-red-suit</id><content type="html" xml:base="https://sxwvn.github.io/blog/villain-in-red-suit"><![CDATA[<style>
+    .video-wrapper {
+        width: 100%;       
+        overflow: hidden;   
+    }
+    
+    .video-wrapper video {
+        width: 100%;        
+        height: auto;       
+        display: block;     
+    }
+</style>
+
+<div class="video-wrapper">
+    <video controls="">
+        <source src="https://sxwvn-website-be.onrender.com/api/video/VIRS.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+<p>The villain in red suit is a manifestation of my childhood trauma. I picture them wearing a bright red suit because of redacted reasons that will serve as a clue to OSINT my real identity. Let’s just say, that’s what they like to wear. Which is kind of unfortunate because I always thought my favorite color is red (I don’t know what’s my current favorite color anymore…).</p>
+
+<p>I first wrote this song in February of 2021 when the wound was still fresh. I ocassionally listen to the song/watch the music video (especially when developing this website to make sure the video loads properly), and all I got from it was just sadness. In contrast, <em>Ambition, Competition, and Disappointment</em> resolves in a hopeful note. Well, I mean what do you expect when you quite literally traumatize a 16 year old kid? IN THE MIDDLE OF THE PANDEMIC as well…</p>
+
+<p>To quote one of my favorite artist of all time:</p>
+<blockquote>
+  <p>Just 21 so I’m young and I’m stupid</p>
+
+  <p>Only 16, yeah I think you should’ve known</p>
+
+  <p>I think you fucked me up.</p>
+</blockquote>]]></content><author><name></name></author><category term="video" /><category term="music" /><category term="yapping" /><summary type="html"><![CDATA[Your browser does not support the video tag. The villain in red suit is a manifestation of my childhood trauma. I picture them wearing a bright red suit because of redacted reasons that will serve as a clue to OSINT my real identity. Let’s just say, that’s what they like to wear. Which is kind of unfortunate because I always thought my favorite color is red (I don’t know what’s my current favorite color anymore…). I first wrote this song in February of 2021 when the wound was still fresh. I ocassionally listen to the song/watch the music video (especially when developing this website to make sure the video loads properly), and all I got from it was just sadness. In contrast, Ambition, Competition, and Disappointment resolves in a hopeful note. Well, I mean what do you expect when you quite literally traumatize a 16 year old kid? IN THE MIDDLE OF THE PANDEMIC as well… To quote one of my favorite artist of all time: Just 21 so I’m young and I’m stupid Only 16, yeah I think you should’ve known I think you fucked me up.]]></summary></entry></feed>
