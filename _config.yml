@@ -58,6 +58,8 @@ collections:
   my_tags:
     output: true
     permalink: /tagged/:slug/
+  chapters:
+    output: true
 defaults:
   -
     scope:
@@ -76,7 +78,8 @@ exclude:
 - LICENSE.md
 
 Blog: /blog
-About: /about/
+About: /about
+HowTo: /how-to
 
 # Add general links to site pages here
 links:

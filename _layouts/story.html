@@ -1,0 +1,44 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<main>
+
+    {% include header.html %}
+
+    {{ content }}
+
+    <ul class="story-chapters">
+        {% assign sorted_chapters = site.chapters | sort: "chapter_number" %}
+        {% assign sorted_chapters = sorted_chapters | sort: "act" %}
+      
+        {% assign current_act = nil %}
+        
+        {% for chapter in sorted_chapters %}
+          {% unless chapter.act == current_act %}
+            {% assign current_act = chapter.act %}
+            {% if forloop.index0 != 0 %}
+              </ul>
+            {% endif %}
+            <li><strong>Act {{ chapter.act }}: {{ chapter.act_title }}</strong>
+              <ul>
+          {% endunless %}
+      
+          <li>
+            <a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title }}</a>
+          </li>
+      
+          {% if forloop.last %}
+              </ul>
+          {% endif %}
+        {% endfor %}
+      </ul>      
+</main>
+
+{% include footer.html %}
+
+</body>
+
+</html>

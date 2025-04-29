@@ -10,8 +10,7 @@ layout: compress
 
     
     <h1>{{ page.title }}</h1>
-    <i>{{ page.date | date: "%b %d, %Y" }}</i>
-    <h4 class="subtitle">{{ page.subtitle }}</h4>
+    <h3 class="chapter">Act {{ page.act }} Chapter {{ page.chapter }}</h3>
 
     {{ page.content }}
 
@@ -19,7 +18,7 @@ layout: compress
 
 </main>
 
-{% include footer-post.html root="blog" %}
+{% include footer-post.html root="how-to" %}
 
 </body>
 
