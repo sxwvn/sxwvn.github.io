@@ -68,7 +68,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Asia/Jakarta
 future: false
 
 exclude:

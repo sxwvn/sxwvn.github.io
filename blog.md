@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Blog
-description: Here be writings
+description: The whole reason why you're here
 permalink: /blog
 ---
 
-Here be writings. Mostly mundane, sometimes fanciful.
+Collection of my works, with neat commentary to accompany them. May contain yapping as well.
