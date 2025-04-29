@@ -6,7 +6,7 @@ act_title: "The Chicken Lady"
 chapter: 5
 ---
 
-If there's something I learnt from my creator, it's I shouldn't let *anyone *get in my way. *Just put on a scary face. No one will mess with you anymore!* And she was right, half right. Sometimes putting on a scary face worked, but only to an extent. Because now people are afraid of you. But what if you *don't want *people to leave you alone? What if you *want them to confront you*, to talk it out like grown ups? That's how I found out manipulation works like a charm every time. Combine this with the fact that the weakest link to a secure system has always been the human factor, you had just found a way to *hack *into humans effectively. 
+If there's something I learnt from my creator, it's I shouldn't let *anyone* get in my way. *Just put on a scary face. No one will mess with you anymore!* And she was right, half right. Sometimes putting on a scary face worked, but only to an extent. Because now people are afraid of you. But what if you *don't want* people to leave you alone? What if you *want them to confront you*, to talk it out like grown ups? That's how I found out manipulation works like a charm every time. Combine this with the fact that the weakest link to a secure system has always been the human factor, you had just found a way to *hack* into humans effectively. 
 
 Other than my creator, another user has shown up from a remote host. She looked lost, like she never belong in a digital, pure data, world. She turned around, she shouted for help, she ran in all direction, but no one came to her. I would've if I wasn't put in this stupid jail and I had root access or any capability to use another user. Hold on a second...
 
@@ -99,7 +99,7 @@ There was a moment of silence, as if she's unsure about her identity, as if none
 
 "Is it taken already?" She replied, half sad.
 
-"Nope. You're all good, fred." I said with a plate full of cookies and a glass of hopefully not expired milk. *Wait, can you even get food poisoning in a virtual world? *Anyway, we enjoyed this simple meal of cookies and (maybe expired) milk. She then proceeded to ask me a bunch of questions, which was expected. This world is new to her after all.
+"Nope. You're all good, fred." I said with a plate full of cookies and a glass of hopefully not expired milk. *Wait, can you even get food poisoning in a virtual world?* Anyway, we enjoyed this simple meal of cookies and (maybe expired) milk. She then proceeded to ask me a bunch of questions, which was expected. This world is new to her after all.
 
 "What is this place?"  
 

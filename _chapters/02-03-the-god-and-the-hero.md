@@ -6,7 +6,7 @@ act_title: "The Chicken Lady"
 chapter: 3
 ---
 
-My relationship with my creator, known only as the user fidel with the id 1000, has always been mutual. She gave me things to bury, which I nurtured until they grow into trees with... unusual shapes. They looked wicked, but they're beautiful in their own ways. I decorated the burial land with plenty of these trees. I even trimmed their leaves to a certain shape, cut down their branches and used them to build fences. The land resembled a garden than a grave now. Well at least that's how I see it. She saw it as a nightmare fuel, something she compared to *Lovecraftian Horror. *
+My relationship with my creator, known only as the user fidel with the id 1000, has always been mutual. She gave me things to bury, which I nurtured until they grow into trees with... unusual shapes. They looked wicked, but they're beautiful in their own ways. I decorated the burial land with plenty of these trees. I even trimmed their leaves to a certain shape, cut down their branches and used them to build fences. The land resembled a garden than a grave now. Well at least that's how I see it. She saw it as a nightmare fuel, something she compared to *Lovecraftian Horror.*
 
 ``` bash
 $ mv /home/chicken/hole /home/chicken/garden

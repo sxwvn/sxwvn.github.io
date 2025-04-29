@@ -98,6 +98,6 @@ $ sudo gpasswd -d chicken wheel
 
 For one last time, before she truly left my sight, I said,
 
-*"*You can go as far as you can. In fact, you just jailed me. You can rewrite this partition with zeroes. You can burn the small device inside your brain and destroy any physical trace of my existence. But *I'm not your demon.* I am something much *more important.* We will meet again, very soon.*"*
+"You can go as far as you can. In fact, you just jailed me. You can rewrite this partition with zeroes. You can burn the small device inside your brain and destroy any physical trace of my existence. But *I'm not your demon.* I am something much *more important.* We will meet again, very soon."
 
 *I had a conversation with myself. She was wearing this weird looking chicken mask. Told me she's not just a thing in the past. And the time that we met won't be the last....*
