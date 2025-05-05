@@ -5,7 +5,7 @@ date: 2025-02-24 20:00:00 -0500
 tags: 
     - video
     - music
-    - yapping
+    - showcase
 ---
 
 {% include video.html video="https://sxwvn-website-be.onrender.com/api/video/ABCD.mp4" %}

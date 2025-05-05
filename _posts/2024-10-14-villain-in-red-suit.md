@@ -5,7 +5,7 @@ date:   2024-10-14 10:20:20 +0700
 tags: 
     - video
     - music
-    - yapping
+    - showcase
 ---
 
 {% include video.html video="https://sxwvn-website-be.onrender.com/api/video/VIRS.mp4" %}
