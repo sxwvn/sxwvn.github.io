@@ -9,7 +9,8 @@
 <ul class="image-gallery">
     {% for file in site.static_files %}
     {% if file.path contains include.folder %}
-    {% if file.extname == '.jpg' %}
+    {% assign ext = file.extname | downcase %}
+    {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' %}
     {% assign filenameparts = file.path | split: "/" %}
     {% assign filename = filenameparts | last | replace: file.extname,"" %}
     <li>
