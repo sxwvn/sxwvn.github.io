@@ -1,0 +1,20 @@
+<style>
+    .audio-wrapper {
+        width: 100%;       
+        overflow: hidden;   
+    }
+    
+    .audio-wrapper audio {
+        width: 100%;        
+        height: auto;       
+        display: block;     
+    }
+</style>
+    
+<div class="audio-wrapper">
+    <audio controls autoplay>
+        <source src="{{ include.audio }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio> 
+</div>
+    
