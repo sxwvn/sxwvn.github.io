@@ -1,130 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sxwvn.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sxwvn.github.io/" rel="alternate" type="text/html" /><updated>2025-05-11T10:16:26+07:00</updated><id>https://sxwvn.github.io/feed.xml</id><title type="html">The SXWVN Website</title><subtitle>I make music in my free time, but I&apos;m currently studying in the IT field.  The paranoid scientist meet the vulnerable artist. Welcome. </subtitle><entry><title type="html">May Journal: The Sound of 2019</title><link href="https://sxwvn.github.io/blog/may-journal-10" rel="alternate" type="text/html" title="May Journal: The Sound of 2019" /><published>2025-05-10T00:00:00+07:00</published><updated>2025-05-10T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-10</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-10"><![CDATA[<p>I recently started to give my old playlist a listen again. I used to listen to a LOT of EDM tracks, and you will notice a clear inspiration if you listen to some of my earliest works. I turn out to be boring nowadays, I just listen to some good ol’ indie rock/pop songs like everyone else lol. But hey, my 2019 playlist, it’s so fucking good, wow. It’s been a while but I still fuck with most of the songs! Sometimes EDM can be a bit repetitive after a few listens, but I think the variety of artists I used to listen to obscure that enough.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sxwvn.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sxwvn.github.io/" rel="alternate" type="text/html" /><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/feed.xml</id><title type="html">The SXWVN Website</title><subtitle>I make music in my free time, but I&apos;m currently studying in the IT field.  The paranoid scientist meet the vulnerable artist. Welcome. </subtitle><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-12-may-journal-12" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-12-may-journal-12</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-12-may-journal-12"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>\begin{document}
+\section{Software Simulation}
+\subsection{Simulation of One Vehicle}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{fig/one-slow.png}
+    \caption{Rule-abiding Vehicle Simulation
+}
+    \label{fig:one-slow}
+\end{figure}
 
-<p>Oh my, I miss some of these songs and really want to incorporate them in my own creation. Some artists I listened to a lot are ILLENIUM, MitiS, San Holo, Seven Lions, Jaron, Madeon, Dabin, Syence, you can see where the inspiration comes from? And in no particular order, here are some songs with styles that I kinda want to explore:</p>
-<ul>
-  <li>Dream Dream Dream by Madeon</li>
-  <li>lift me from the ground by San Holo remixed by Jaron</li>
-  <li>Cinderella by JANEE (the drop is really good…)</li>
-  <li>Always Afternoon by Medasin (Medasin’s songs are a vibe tbh)</li>
-  <li>Ego by Syence and Gazzo</li>
-  <li>In Your Arms and Good Things Fall Apart by ILLENIUM (HOW DID I FORGET THESE BANGERS??)</li>
-</ul>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[I recently started to give my old playlist a listen again. I used to listen to a LOT of EDM tracks, and you will notice a clear inspiration if you listen to some of my earliest works. I turn out to be boring nowadays, I just listen to some good ol’ indie rock/pop songs like everyone else lol. But hey, my 2019 playlist, it’s so fucking good, wow. It’s been a while but I still fuck with most of the songs! Sometimes EDM can be a bit repetitive after a few listens, but I think the variety of artists I used to listen to obscure that enough. Oh my, I miss some of these songs and really want to incorporate them in my own creation. Some artists I listened to a lot are ILLENIUM, MitiS, San Holo, Seven Lions, Jaron, Madeon, Dabin, Syence, you can see where the inspiration comes from? And in no particular order, here are some songs with styles that I kinda want to explore: Dream Dream Dream by Madeon lift me from the ground by San Holo remixed by Jaron Cinderella by JANEE (the drop is really good…) Always Afternoon by Medasin (Medasin’s songs are a vibe tbh) Ego by Syence and Gazzo In Your Arms and Good Things Fall Apart by ILLENIUM (HOW DID I FORGET THESE BANGERS??)]]></summary></entry><entry><title type="html">May Journal: Coffee</title><link href="https://sxwvn.github.io/blog/may-journal-09" rel="alternate" type="text/html" title="May Journal: Coffee" /><published>2025-05-09T00:00:00+07:00</published><updated>2025-05-09T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-09</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-09"><![CDATA[<p>Remind me to never drink coffee again because every time I did, it always made me jittery and sleepy. It’s a weird combination! I thought if it gets me all jittery it should also energize me and shit, right? Nah, I just felt dizzy with an urge to crash out despite sleeping for 9 hours straight the night before. Essentially I got the anxiety bit WITHOUT the “making me hyperfocus on shit” bit. To be fair I think it depends on how strong the coffee is. I had a free latte drink from a campus event and that didn’t do weird stuff on me. I bought the same latte today and it got me acting all weird. Maybe the free coffee wasn’t as strong as the one I bought. I couldn’t even finish it! I only drank a half cup.</p>
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{fig/one-slow.png}
+    \caption{Simulation of a Vehicle Breaking the Rules}
+    \label{fig:one-tight}
+\end{figure}
 
-<p>People say that’s a sign of ADHD. My ADHD friends also react to coffee the same way. Although I do suspect myself of being neurodivergent, I don’t think it’s ADHD.</p>
-
-<p>Why did I decide to drink coffee you may ask? I had an essay to work on. It’s still due Monday but I have so many things to do for next week specifically and I need to get that essay out of the way before things get out of hand.</p>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[Remind me to never drink coffee again because every time I did, it always made me jittery and sleepy. It’s a weird combination! I thought if it gets me all jittery it should also energize me and shit, right? Nah, I just felt dizzy with an urge to crash out despite sleeping for 9 hours straight the night before. Essentially I got the anxiety bit WITHOUT the “making me hyperfocus on shit” bit. To be fair I think it depends on how strong the coffee is. I had a free latte drink from a campus event and that didn’t do weird stuff on me. I bought the same latte today and it got me acting all weird. Maybe the free coffee wasn’t as strong as the one I bought. I couldn’t even finish it! I only drank a half cup. People say that’s a sign of ADHD. My ADHD friends also react to coffee the same way. Although I do suspect myself of being neurodivergent, I don’t think it’s ADHD. Why did I decide to drink coffee you may ask? I had an essay to work on. It’s still due Monday but I have so many things to do for next week specifically and I need to get that essay out of the way before things get out of hand.]]></summary></entry><entry><title type="html">May Journal: I Look Alive</title><link href="https://sxwvn.github.io/blog/may-journal-08" rel="alternate" type="text/html" title="May Journal: I Look Alive" /><published>2025-05-08T00:00:00+07:00</published><updated>2025-05-08T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-08</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-08"><![CDATA[<p>Don’t you just love the feeling of thinking you got it all figured out, only to doubt it and start to consider other paths? What if <em>now</em> I really am not made for this? Do you think life is a series of “when there’s a will there’s a way”? Well, I start to doubt that saying a few years ago. I think there are things you are naturally inclined to do and maybe you should just stick with that, than to convince yourself you <em>can</em> achieve anything just because you <em>like</em> it.</p>
-
-<p>Maybe I got jaded because I’ve only been getting 5 hours of sleep lately. That doesn’t sound bad to many people but I’m not the type to stay up all night or wake up super early just to do something. It IS bad for me. Really bad.</p>
-
-<p>I guess I don’t want to set anything in stone yet. I will try my best to achieve what I want, but if that turns out to be another detour, it’s alright. Detours can be fun sometimes.</p>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[Don’t you just love the feeling of thinking you got it all figured out, only to doubt it and start to consider other paths? What if now I really am not made for this? Do you think life is a series of “when there’s a will there’s a way”? Well, I start to doubt that saying a few years ago. I think there are things you are naturally inclined to do and maybe you should just stick with that, than to convince yourself you can achieve anything just because you like it. Maybe I got jaded because I’ve only been getting 5 hours of sleep lately. That doesn’t sound bad to many people but I’m not the type to stay up all night or wake up super early just to do something. It IS bad for me. Really bad. I guess I don’t want to set anything in stone yet. I will try my best to achieve what I want, but if that turns out to be another detour, it’s alright. Detours can be fun sometimes.]]></summary></entry><entry><title type="html">May Journal: I’ve Made Her Proud</title><link href="https://sxwvn.github.io/blog/may-journal-07" rel="alternate" type="text/html" title="May Journal: I’ve Made Her Proud" /><published>2025-05-07T00:00:00+07:00</published><updated>2025-05-07T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-07</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-07"><![CDATA[<p>As I take a long look in the mirror <br />
-Talking my heart out to an empty room <br />
-I notice a few errors <br />
-Of the horrors that loom</p>
-
-<p>My mind is a machine <br />
-That runs on rusty old gears <br />
-Lamenting of what could’ve been <br />
-Fueled by suspicion and fears</p>
-
-<p>It’s hard for me to forgive <br />
-Though it’s easy for me to forget <br />
-Not of my mistakes, but of what I achieve <br />
-And this is how I make myself, an enemy of my head</p>
-
-<p>Acting rough on a kid doesn’t make her tough <br />
-And she’s deserving of love by default <br />
-As I fly high above the clouds <br />
-I realized, I have made her very proud.</p>]]></content><author><name></name></author><category term="poem" /><category term="yapping" /><summary type="html"><![CDATA[As I take a long look in the mirror Talking my heart out to an empty room I notice a few errors Of the horrors that loom My mind is a machine That runs on rusty old gears Lamenting of what could’ve been Fueled by suspicion and fears It’s hard for me to forgive Though it’s easy for me to forget Not of my mistakes, but of what I achieve And this is how I make myself, an enemy of my head Acting rough on a kid doesn’t make her tough And she’s deserving of love by default As I fly high above the clouds I realized, I have made her very proud.]]></summary></entry><entry><title type="html">May Journal: The Art of Letting Go</title><link href="https://sxwvn.github.io/blog/may-journal-06" rel="alternate" type="text/html" title="May Journal: The Art of Letting Go" /><published>2025-05-06T00:00:00+07:00</published><updated>2025-05-06T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-06</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-06"><![CDATA[<p>I cried myself to sleep because the thought of coming back to an overwhelming life full of expectations was too much for me. I am not afraid of responsibilities and getting to a “serious age” or “serious phase of life” where I have to lock the fuck in and get an internship while graduating. I’m just afraid of not being able to breathe because I have to maintain a <em>perfect</em> life.</p>
-
-<p>For once in my life I feel alive this past 5 months. I can’t reveal what happened to me that made that possible because again, that will serve as a clue to OSINT my real identity. Trust me, I never had this kind of work-life balance before. And I’ve been coming up with multiple guidelines and protocols so that I can “control” my life later, when this <em>phase</em> of my life ends. Sadly it will come to an end in a few days.</p>
-
-<p>Hey, it’s just life, right? Things start and things end. Changes can be scary, life is inherently chaotic, and I will eventually be alright.</p>
-
-<style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 250px;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
-</style>
-
-<ul class="image-gallery">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <li>
-        <a href="/assets/rainbow/rainbow%20double.jpeg" title="rainbow double">
-            <img src="/assets/rainbow/rainbow double.jpeg" alt="rainbow double" class="figure" title="rainbow double" />
-        </a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-</ul>
-
-<p><em>Rainbow after the hurricane, I feel we’re gonna be just fine</em></p>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[I cried myself to sleep because the thought of coming back to an overwhelming life full of expectations was too much for me. I am not afraid of responsibilities and getting to a “serious age” or “serious phase of life” where I have to lock the fuck in and get an internship while graduating. I’m just afraid of not being able to breathe because I have to maintain a perfect life. For once in my life I feel alive this past 5 months. I can’t reveal what happened to me that made that possible because again, that will serve as a clue to OSINT my real identity. Trust me, I never had this kind of work-life balance before. And I’ve been coming up with multiple guidelines and protocols so that I can “control” my life later, when this phase of my life ends. Sadly it will come to an end in a few days. Hey, it’s just life, right? Things start and things end. Changes can be scary, life is inherently chaotic, and I will eventually be alright. Rainbow after the hurricane, I feel we’re gonna be just fine]]></summary></entry><entry><title type="html">May Journal: Five</title><link href="https://sxwvn.github.io/blog/may-journal-05" rel="alternate" type="text/html" title="May Journal: Five" /><published>2025-05-05T00:00:00+07:00</published><updated>2025-05-05T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-05</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-05"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>       ,----,.
-     ,'   ,' |
-   ,'   .'   |
- ,----.'    .'
- |    |   .'  
- :    :  |--, 
- :    |  ;.' \
- |    |      |
- `----'.'\   ;
-   __  \  .  |
- /   /\/  /  :
-/ ,,/  ',-   .
-\ ''\       ; 
- \   \    .'  
-  -----,-'    
+In this software simulation, we use Pygame software-based simulation. The figure above shows the simulation results for one vehicle passing in one lane. There are two sensors that can calculate the speed of the vehicle and if the vehicle does not exceed the speed limit, which is 30 km/h then the Smart Speed Bump is not active and the camera also does not take pictures of the vehicle (Figure \ref{fig:one-slow}). However, if the vehicle is detected to be exceeding the speed limit by both sensors, the Smart Speed Bump is active and the camera also takes a picture of the vehicle illustrated by a red color change on the camera (Figure \ref{fig:one-fast}). Each simulation will record vehicle's speed on the speed graph.
+\end{document}
 </code></pre></div></div>
 
-<p>It’s the number five. What do you expect?</p>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[,----,. ,' ,' | ,' .' | ,----.' .' | | .' : : |--, : | ;.' \ | | | `----'.'\ ; __ \ . | / /\/ / : / ,,/ ',- . \ ''\ ; \ \ .' -----,-' It’s the number five. What do you expect?]]></summary></entry><entry><title type="html">May Journal: Random Hiking Day</title><link href="https://sxwvn.github.io/blog/may-journal-04" rel="alternate" type="text/html" title="May Journal: Random Hiking Day" /><published>2025-05-04T00:00:00+07:00</published><updated>2025-05-04T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-04</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-04"><![CDATA[<p>Basically the title. It was nice! Try imagining the whole scene having a background music of “This Is Not Enough” by Hammock.</p>
+<p>How is this real? Seriously.</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-13-may-journal-13" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-13-may-journal-13</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-13-may-journal-13"><![CDATA[<p>I have so many things to do. Going Insane… I want to take a break. Going Insane… The future is uncertain. Going Insane… I don’t know if I’ll make it. Going Insane… What if I die, What if I live?</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-14-may-journal-14" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-14-may-journal-14</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-14-may-journal-14"><![CDATA[<p>I guess this is it. This is goodbye. I can’t believe this but I’ve reached the end, and I’m still alive. In fact, I’m more alive. That’s cool.</p>
+
+<p>This will sound corny but today’s goodbye marks the start of a new phase. A phase associated with big desires, with impossible missions, with high stakes decisions. It would’ve been nice if I could <strong>stay</strong>. If I could just be safe and satisfied with small desires; graduate, get a job at a local business, start a family, and settle near my hometown. But for reasons I don’t want to share publicly (at this point you’ve figured why), I just can’t afford that kind of lifestyle.</p>
+
+<p>I will always be on the run, and that’s alright.</p>
+
+<p>Can’t deny this feeling but there are parts of me who really just want to stand still. Let the cold breeze soothes my aching bones. Let the laughter and cries of my loved ones be the background noise of my day. Stay, even for a second. Stay.</p>
+
+<p>I want to stay.
+Will I ever find someone, somewhere, somehow that will let me taste my small desire? Maybe this world is too broken, too full of snakes to trust, too full of idle NPC under a rigged system unable to do anything.</p>
+
+<p>I want to stay, but so far east I’m westbound.</p>
+
+<p>I was thinking maybe if we’re living in a simulation; we look the same (or not having any looks at all, just a floating entity), and speak the same made up language, maybe we’ll finally unite as one species. But then I thought, well what if we start to develop our own ways of life, habits, cultures, and arbitrary rules of in-group and out-group? I think humanity’s bound to do that.</p>
+
+<p>Maybe we’re bound to hurt each other, guided by our primal fear of the unknown. Maybe it’s survival.</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-15-may-journal-15" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-15-may-journal-15</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-15-may-journal-15"><![CDATA[<p>A quick glance to my weather app showed that the next few days will have heavy storm all over. It’s thunder season!</p>
+
+<p>I sure hope this will not affect that big thing that’ll happen over the weekend (Foreshadowing)</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-16-may-journal-16" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-16-may-journal-16</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-16-may-journal-16"><![CDATA[<h2 id="under-construction">UNDER CONSTRUCTION!!!</h2>
+
+<p>When the album does come, and in an unlikely event of it blowing up, the OG’s will remember that this song has long been published before the <em>official</em> release date!</p>
+
+<p>If everything we ever had has come to and end, well I hope it ends in a good note.
+If this chapter of our lives has come to a close, well I don’t know, I wish I didn’t have to go</p>
+
+<p>Cause I don’t want to be hurt
+Yet I never learn
+To put up a fight
+And set my boundary right</p>
+
+<p>Everything we ever called our home has always been a mess
+So I bid my farewell and God bless.</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-17-may-journal-17" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-17-may-journal-17</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-17-may-journal-17"><![CDATA[<p>I do not want to talk about this day. I’m physically stuck and I’m mentally somewhere else. If there’s a silver lining at least I don’t die yet.</p>
+
+<p>Hey, can we please stop looking at things as if they have a hidden lesson?</p>
+
+<p><em>“Oh, you’re such a brave and stong kid for doing that! This surely taught you how to be an independent adult and you sure did go through it well!”</em></p>
+
+<p>No. Can I just be pissed about this? None of these were not my fault. It didn’t teach me shit.</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-18-may-journal-18" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-18-may-journal-18</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-18-may-journal-18"><![CDATA[<h3 id="remember">Remember</h3>
+<style>
+    .video-wrapper {
+        width: 100%;       
+        overflow: hidden;   
+    }
+    
+    .video-wrapper video {
+        width: 100%;        
+        height: auto;       
+        display: block;     
+    }
+</style>
+
+<div class="video-wrapper">
+    <video controls="">
+        <source src="https://sxwvn-website-be.onrender.com/api/video/Remember%20(2024).mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+<h3 id="fly">Fly</h3>
+<style>
+    .video-wrapper {
+        width: 100%;       
+        overflow: hidden;   
+    }
+    
+    .video-wrapper video {
+        width: 100%;        
+        height: auto;       
+        display: block;     
+    }
+</style>
+
+<div class="video-wrapper">
+    <video controls="">
+        <source src="https://sxwvn-website-be.onrender.com/api/video/FLY.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+<h3 id="i-love-you-platonically">I Love You, Platonically</h3>
+<style>
+    .video-wrapper {
+        width: 100%;       
+        overflow: hidden;   
+    }
+    
+    .video-wrapper video {
+        width: 100%;        
+        height: auto;       
+        display: block;     
+    }
+</style>
+
+<div class="video-wrapper">
+    <video controls="">
+        <source src="https://sxwvn-website-be.onrender.com/api/video/spes.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+<h3 id="what-the-hell-are-these">What the hell are these?</h3>
+<p>Collection of music videos I made for my friends birthdays because I was too broke to buy them something. It’s a fun challenge too, to try and compose one song in a week and animate a music video to accompany it. I did it 3 (technically 4) times and yet I only nailed the timeliness aspect once.</p>
+
+<p>Who would’ve guessed, turns out animating and video editing take a long time! /s</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-19-may-journal-19" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-19-may-journal-19</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-19-may-journal-19"><![CDATA[<p>Paradoxically I think the most faithful, loyal, and trustworthy person asks the most questions. I think the person you should trust in a crisis should be someone who’s most doubtful. A personal rule of thumb is if someone seems to be so optimistic and believing of a product or solution, run. I think an ethical expert knows better that their solution is not perfect. The more confident you are with something, the more doubtful I am with it. This isn’t something new that everyone just realized, I just happen to give it a proper thought today.</p>
+
+<p>Trust is a big scary word. In a paranoid sense, who do you trust with your personal data online when your behavior has been commodified and used by a few rich oligarchs to control the narrative of the world? In a personal sense, what happens if you let your walls down and be vulnerable; be naked and be awkward?</p>
+
+<p>99% of the time, the answer to the personal sense of trust is nothing. 50% maybe it’ll make you happier and more fulfilled. But in a crisis, what if, what if the remaining 1% happens? What kind of mitigation steps do you have? What is your threat model? What are you willing to lose? To what extent are you willing to risk it all, for security? For a sense of stability?</p>
+
+<p>Even if it’s a lost cause, will you stay with the sinking ship? Will you steer the wheel of a one-way relationship? Will you change your name, will you cover your face, will you cut your hair and will you move in order to keep the ship afloat? Is this faith? Is this loyalty? Is this based on trust? Or are you naive, dear? Do you let people run you over, do what is expected of you, denying yourself?</p>
+
+<p>This is why my friends think I’m insane.</p>
+
+<p>Hey, look, funny meme:</p>
 
 <style>
     .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -143,11 +151,8 @@ I realized, I have made her very proud.</p>]]></content><author><name></name></a
     
     
     
-    <li>
-        <a href="/assets/hiking_pictures/picture%201.jpg" title="picture 1">
-            <img src="/assets/hiking_pictures/picture 1.jpg" alt="picture 1" class="figure" title="picture 1" />
-        </a>
-    </li>
+    
+    
     
     
     
@@ -157,47 +162,8 @@ I realized, I have made her very proud.</p>]]></content><author><name></name></a
     
     
     <li>
-        <a href="/assets/hiking_pictures/picture%202.jpg" title="picture 2">
-            <img src="/assets/hiking_pictures/picture 2.jpg" alt="picture 2" class="figure" title="picture 2" />
-        </a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    
-    <li>
-        <a href="/assets/hiking_pictures/picture%203.jpg" title="picture 3">
-            <img src="/assets/hiking_pictures/picture 3.jpg" alt="picture 3" class="figure" title="picture 3" />
-        </a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    
-    <li>
-        <a href="/assets/hiking_pictures/picture%204.jpg" title="picture 4">
-            <img src="/assets/hiking_pictures/picture 4.jpg" alt="picture 4" class="figure" title="picture 4" />
-        </a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    
-    <li>
-        <a href="/assets/hiking_pictures/picture%205.jpg" title="picture 5">
-            <img src="/assets/hiking_pictures/picture 5.jpg" alt="picture 5" class="figure" title="picture 5" />
+        <a href="/assets/meme/dream%20big.jpeg" title="dream big">
+            <img src="/assets/meme/dream big.jpeg" alt="dream big" class="figure" title="dream big" />
         </a>
     </li>
     
@@ -235,39 +201,10 @@ I realized, I have made her very proud.</p>]]></content><author><name></name></a
     
     
     
-</ul>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[Basically the title. It was nice! Try imagining the whole scene having a background music of “This Is Not Enough” by Hammock.]]></summary></entry><entry><title type="html">May Journal: Undisclosed</title><link href="https://sxwvn.github.io/blog/may-journal-03" rel="alternate" type="text/html" title="May Journal: Undisclosed" /><published>2025-05-03T00:00:00+07:00</published><updated>2025-05-03T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-03</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-03"><![CDATA[<p>It was a late Friday night, me and a buddy of mine just walked out of an event on the other side of the campus that had free food. That decision made sense when you’re a broke and hungry college student. By the time we reached our side of the campus, it was already 12 A.M Saturday and you know what 12 A.M Saturday is like in a college town. Bunch of drunk people just pissing left and right.</p>
+</ul>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-20-may-journal-20" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-20-may-journal-20</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-20-may-journal-20"><![CDATA[<p>If you could associate a song with the impermanence of human relationship, what would it be?</p>
 
-<p>That was not the highlight of the night though. For a reason I can’t disclose, later that night we went on an <em>adventure</em> that almost gone wrong. I will leave the journal at that and let you all guessing. Apart from that, the rest of my Saturday was boring and a little bit overwhelming because I need to do a lot of shit.</p>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[It was a late Friday night, me and a buddy of mine just walked out of an event on the other side of the campus that had free food. That decision made sense when you’re a broke and hungry college student. By the time we reached our side of the campus, it was already 12 A.M Saturday and you know what 12 A.M Saturday is like in a college town. Bunch of drunk people just pissing left and right. That was not the highlight of the night though. For a reason I can’t disclose, later that night we went on an adventure that almost gone wrong. I will leave the journal at that and let you all guessing. Apart from that, the rest of my Saturday was boring and a little bit overwhelming because I need to do a lot of shit.]]></summary></entry><entry><title type="html">May Journal: Looking Forward and Backward</title><link href="https://sxwvn.github.io/blog/may-journal-02" rel="alternate" type="text/html" title="May Journal: Looking Forward and Backward" /><published>2025-05-02T00:00:00+07:00</published><updated>2025-05-02T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-02</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-02"><![CDATA[<p>A little bit of background about myself if it’s not obvious, I’m studying IT like going to uni and all that because for some reasons I’m a paranoid that got a revelation about the Big Data industry. Basically that got me to cyber security. But ever since my freshman year, I feel like that field is just not for me. I don’t know, I feel like I’m just wasting time trying to crack CTF problems that don’t translate to necessary real life skills. This has been a recurring theme in my journey to study cyber security on my own.</p>
+<p>My personal answer is This Is Not Enough by Hammock.</p>
 
-<p>There was a time when I was watching a lot of CTF walkthroughs and then I got to this one forensics challenge where the whole premise of the challenge is to just run it through a steganography brute forcing script to determine the flag. That left a very bad taste in my mouth, even 2 years after I first watched that video. Well first thing first, that’s not forensics at all. I don’t think an APT is going to hide their malicious injection into a fucking image, or that an important CEO is going to hide their API access key like that. But also, I know not all challenges are like that and maybe I haven’t gotten lucky in finding good quality CTFs or even just platform to learn about stuffs like that.</p>
+<p>I think I mentioned that song before. It’s in B major, 3/4 time signature, the chord progression is pretty simple. It’s your usual I - IV - vi - V but they way it’s arranged makes it very beautiful and special to me. The instrumental break near the end is just top notch. I’m always lost having this scenario in my head where flashes of memories spent with my loved ones just play like a movie reel, as if I’m going to fucking die lmao.</p>
 
-<p>I played a bunch of CTFs in the past and I can confidently say only 2 events made me feel like I’m closer to learning something new, which is concerning (and both of them are corporate events, which are harder but for some odd reasons my brain likes it more, maybe because they’re more realistic?). Most of the ones I played are low quality shit.</p>
-
-<p>And this is sadly how you get to “build” your cyber security portofolio. Well, you can go the long and hard route of going from Networking -&gt; System administration -&gt; Infrastructure management -&gt; Security. But then, you’re going to lose a lot of time that’s not really directly connected to security. I mean I kinda get it, you’re not going to hack NASA just to prove to your potential employer that you’re a fit candidate for their Penetration Testing group. And it’s actually hard to set up and maintain free, high quality labs, for kids you can’t trust online.</p>
-
-<p>I think this is one of the reasons why cyber security is considered to be a “hard” field in IT. Take an example of software engineering or data science/AI. For the former, you can start from making a simple fullstack Javascript web application and then maybe go to mobile app development, or even game development. The latter, you have Kaggle and it’s quite a hot topic now so a lot of people will offer affordable bootcamps geared towards this field lol. In both cases, you’re <em>not</em> breaking anything, you’re <em>creating</em> something. It’s easier to create something than to break it, right? Because in order to break shit you have to understand how it works first… AND most importantly, you don’t have to contain anything, make mitigation plans, etc, just to make sure the breaking is in reasonable limits (aka the script kiddies learning how to hack on your platform will NOT be able to pwn your whole infrastructure). Just my observation though, you could also say cyber security is also creating something, creating fear and mistrust :&gt;</p>
-
-<p>Jokes aside, right now I’m approaching it in a much slower pace. This means, learning about the basics first. In other words, taking the long and hard route. Because you can’t expect me to just muscle-memorize running a BOF script to pwn a web server. I <em>need</em> to learn the background of these attacks. Also, I’m not trying to be the master of all categories. I’m focusing on the categories that are less guess-y, like reverse engineering, web exploitation, and (real) forensics (or in rare cases TI&amp;IR). I took this route because eventually I’m aiming for a malware analyst career path (the web exploitation is there for the funsies). But it’s too slow… <em>if</em> my end goal is to just win some CTFS. Honestly that’s not a decent goal, and I keep reminding myself I’m on the right track for focusing forward and backward but not sideways.</p>
-
-<p>So far some resources that do help me gain those skills include:</p>
-<ul>
-  <li>A paid student subscription of HackTheBox. For its price, HTB is good but they’re super focused on web attacks, less on other areas (system vulnerability, reverse engineering). They do have forensics modules that are actually forensics (like digging into your Windows logs to find traces of malware), and a dedicated Intro to Malware Analysis module that also covers static and dynamic debugging!</li>
-  <li>(Should be) paid subscription of TryHackMe. This has more variety than HTB and it’s also more step by step. I only tried the free rooms for trial purposes but even just from the free rooms I can say they’re really nice, although the content available is pretty basic and it won’t get you somewhere. I’m guessing the premium rooms will be even better.</li>
-  <li><a href="https://pwn.college">pwn.college</a>. This one’s free and hands on. But in my opinion it has the tendency to be CTF-y in a sense that sometimes the direction/clue/instructions of the challenges are kinda stupid and some modules test unnecessary skills (more guess-y than needed).</li>
-</ul>
-
-<p>My studying pipeline usually consists of: learning the basics/theories from either HTB or THM -&gt; finish their skill assesments at the end of each module -&gt; try the ones in pwn.college</p>
-
-<p>I haven’t tried these before but some people said they’re also good:</p>
-<ul>
-  <li><a href="https://crackmes.one/">crackme</a>. This one’s for reverse engineering and maybe eventually pwn.</li>
-  <li><a href="https://overthewire.org/wargames/natas/">natas</a>. OverTheWire’s Natas series is a good one if you need hands on practice on web vulnerabilities. I was planning to use this but turns out HTB has a bunch of in-depth web vulnerability modules for the subscription that I got so I just did that instead. Maybe in the future I will give it a try.</li>
-</ul>
-
-<p>I know that this is suppose to be an art persona, but I’ve made peace with trying to pick sides between the paranoid scientist and the vulnerable artist. I guess I am both, and you will eventually hear me yap about music compositition or animation.</p>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[A little bit of background about myself if it’s not obvious, I’m studying IT like going to uni and all that because for some reasons I’m a paranoid that got a revelation about the Big Data industry. Basically that got me to cyber security. But ever since my freshman year, I feel like that field is just not for me. I don’t know, I feel like I’m just wasting time trying to crack CTF problems that don’t translate to necessary real life skills. This has been a recurring theme in my journey to study cyber security on my own. There was a time when I was watching a lot of CTF walkthroughs and then I got to this one forensics challenge where the whole premise of the challenge is to just run it through a steganography brute forcing script to determine the flag. That left a very bad taste in my mouth, even 2 years after I first watched that video. Well first thing first, that’s not forensics at all. I don’t think an APT is going to hide their malicious injection into a fucking image, or that an important CEO is going to hide their API access key like that. But also, I know not all challenges are like that and maybe I haven’t gotten lucky in finding good quality CTFs or even just platform to learn about stuffs like that. I played a bunch of CTFs in the past and I can confidently say only 2 events made me feel like I’m closer to learning something new, which is concerning (and both of them are corporate events, which are harder but for some odd reasons my brain likes it more, maybe because they’re more realistic?). Most of the ones I played are low quality shit. And this is sadly how you get to “build” your cyber security portofolio. Well, you can go the long and hard route of going from Networking -&gt; System administration -&gt; Infrastructure management -&gt; Security. But then, you’re going to lose a lot of time that’s not really directly connected to security. I mean I kinda get it, you’re not going to hack NASA just to prove to your potential employer that you’re a fit candidate for their Penetration Testing group. And it’s actually hard to set up and maintain free, high quality labs, for kids you can’t trust online. I think this is one of the reasons why cyber security is considered to be a “hard” field in IT. Take an example of software engineering or data science/AI. For the former, you can start from making a simple fullstack Javascript web application and then maybe go to mobile app development, or even game development. The latter, you have Kaggle and it’s quite a hot topic now so a lot of people will offer affordable bootcamps geared towards this field lol. In both cases, you’re not breaking anything, you’re creating something. It’s easier to create something than to break it, right? Because in order to break shit you have to understand how it works first… AND most importantly, you don’t have to contain anything, make mitigation plans, etc, just to make sure the breaking is in reasonable limits (aka the script kiddies learning how to hack on your platform will NOT be able to pwn your whole infrastructure). Just my observation though, you could also say cyber security is also creating something, creating fear and mistrust :&gt; Jokes aside, right now I’m approaching it in a much slower pace. This means, learning about the basics first. In other words, taking the long and hard route. Because you can’t expect me to just muscle-memorize running a BOF script to pwn a web server. I need to learn the background of these attacks. Also, I’m not trying to be the master of all categories. I’m focusing on the categories that are less guess-y, like reverse engineering, web exploitation, and (real) forensics (or in rare cases TI&amp;IR). I took this route because eventually I’m aiming for a malware analyst career path (the web exploitation is there for the funsies). But it’s too slow… if my end goal is to just win some CTFS. Honestly that’s not a decent goal, and I keep reminding myself I’m on the right track for focusing forward and backward but not sideways. So far some resources that do help me gain those skills include: A paid student subscription of HackTheBox. For its price, HTB is good but they’re super focused on web attacks, less on other areas (system vulnerability, reverse engineering). They do have forensics modules that are actually forensics (like digging into your Windows logs to find traces of malware), and a dedicated Intro to Malware Analysis module that also covers static and dynamic debugging! (Should be) paid subscription of TryHackMe. This has more variety than HTB and it’s also more step by step. I only tried the free rooms for trial purposes but even just from the free rooms I can say they’re really nice, although the content available is pretty basic and it won’t get you somewhere. I’m guessing the premium rooms will be even better. pwn.college. This one’s free and hands on. But in my opinion it has the tendency to be CTF-y in a sense that sometimes the direction/clue/instructions of the challenges are kinda stupid and some modules test unnecessary skills (more guess-y than needed). My studying pipeline usually consists of: learning the basics/theories from either HTB or THM -&gt; finish their skill assesments at the end of each module -&gt; try the ones in pwn.college I haven’t tried these before but some people said they’re also good: crackme. This one’s for reverse engineering and maybe eventually pwn. natas. OverTheWire’s Natas series is a good one if you need hands on practice on web vulnerabilities. I was planning to use this but turns out HTB has a bunch of in-depth web vulnerability modules for the subscription that I got so I just did that instead. Maybe in the future I will give it a try. I know that this is suppose to be an art persona, but I’ve made peace with trying to pick sides between the paranoid scientist and the vulnerable artist. I guess I am both, and you will eventually hear me yap about music compositition or animation.]]></summary></entry><entry><title type="html">May Journal: Day One</title><link href="https://sxwvn.github.io/blog/may-journal-01" rel="alternate" type="text/html" title="May Journal: Day One" /><published>2025-05-01T00:00:00+07:00</published><updated>2025-05-01T00:00:00+07:00</updated><id>https://sxwvn.github.io/blog/may-journal-01</id><content type="html" xml:base="https://sxwvn.github.io/blog/may-journal-01"><![CDATA[<p>It’s May…. and it’s a tradition at this point to just journal every day of the month leading up to my birthday which I will not disclose, at least not now. You will eventually find out, because that’s when the journaling ends.</p>
-
-<p>So far my May has been okay. I’m mostly just working on my website as usual. It’s been my dream since who knows when to just have my own “infrastructure” that can serve static files about my work. I said infrastructure with quotation marks because I honestly think I can (and will) do better. Right now, the video that’s served to the homepage calls a backend server I hosted on <a href="https://render.com">render</a>. It then calls on a secured S3 bucket that was suppose to mimic my private NAS(?) where I store all of my songs and stuffs so it’s just easier if I travel or switch device in the future.</p>
-
-<p>This architecture is, weird, I know because if it’s just static files I can just use a public bucket. But again, it’s not meant to be a public bucket, I really want it to be my own NAS so it’s more of an exercise of secure DevOps practice combined with Linux system administration tasks to automate and orchestrate different parts of my web application. In the end, it will be a self-hosted series of containers, some served to the public some inside a private subnet and they communicate using VPN or some sorts of proxy or something fun like that…. This frontend will also be hosted there obviously, with my own domain and everything. Yeah maybe in a few years..</p>
-
-<p>For now, this solution works and I’m happy about that :]</p>]]></content><author><name></name></author><category term="yapping" /><summary type="html"><![CDATA[It’s May…. and it’s a tradition at this point to just journal every day of the month leading up to my birthday which I will not disclose, at least not now. You will eventually find out, because that’s when the journaling ends. So far my May has been okay. I’m mostly just working on my website as usual. It’s been my dream since who knows when to just have my own “infrastructure” that can serve static files about my work. I said infrastructure with quotation marks because I honestly think I can (and will) do better. Right now, the video that’s served to the homepage calls a backend server I hosted on render. It then calls on a secured S3 bucket that was suppose to mimic my private NAS(?) where I store all of my songs and stuffs so it’s just easier if I travel or switch device in the future. This architecture is, weird, I know because if it’s just static files I can just use a public bucket. But again, it’s not meant to be a public bucket, I really want it to be my own NAS so it’s more of an exercise of secure DevOps practice combined with Linux system administration tasks to automate and orchestrate different parts of my web application. In the end, it will be a self-hosted series of containers, some served to the public some inside a private subnet and they communicate using VPN or some sorts of proxy or something fun like that…. This frontend will also be hosted there obviously, with my own domain and everything. Yeah maybe in a few years.. For now, this solution works and I’m happy about that :]]]></summary></entry></feed>
+<p>Hey, good song. I recommend it.</p>]]></content><author><name></name></author></entry><entry><title type="html"></title><link href="https://sxwvn.github.io/blog/2025-05-21-may-journal-21" rel="alternate" type="text/html" title="" /><published>2025-05-25T01:12:31+07:00</published><updated>2025-05-25T01:12:31+07:00</updated><id>https://sxwvn.github.io/blog/2025-05-21-may-journal-21</id><content type="html" xml:base="https://sxwvn.github.io/blog/2025-05-21-may-journal-21"><![CDATA[<p>It’s been a long, long, way home. I need to rest and let my mortal flesh adjust to the new environment. That’s the nice scenario. Unfortunately I need to lock the fuck in again. What a life.</p>]]></content><author><name></name></author></entry></feed>
