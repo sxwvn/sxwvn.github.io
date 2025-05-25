@@ -4,6 +4,7 @@ title: "May Journal: Archive of The Past"
 date: 2025-05-11
 tags: 
     - yapping
+    - showcase
 ---
 
 {% include video.html video="https://sxwvn-website-be.onrender.com/api/video/ArchiveOfThePast.mp4" %}
