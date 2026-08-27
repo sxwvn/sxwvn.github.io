@@ -7,7 +7,7 @@ tags:
     - showcase
 ---
 
-{% include video.html video="https://sxwvn-website-be.onrender.com/api/video/ArchiveOfThePast.mp4" %}
+{% include video.html video="JETS9QmufDI" %}
 
 Did I catch you off guard? Did you think the journal ends on May 10th and thought that's my birthday? Ha, try again! 
 

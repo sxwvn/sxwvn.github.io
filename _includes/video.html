@@ -12,9 +12,14 @@
 </style>
     
 <div class="video-wrapper">
-    <video controls>
-        <source src="{{ include.video }}" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube-nocookie.com/embed/{{ include.video }}" 
+        title="The SXWVN Video on YouTube (as private as I can get it)" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
 </div>
-    

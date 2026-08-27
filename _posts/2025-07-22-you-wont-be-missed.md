@@ -8,7 +8,7 @@ tags:
     - showcase
 ---
 
-{% include video.html video="https://sxwvn-website-be.onrender.com/api/video/ywbm.mp4" %}
+{% include video.html video="l2fjRvdyJiU" %}
 
 It must be July... Every July for the past 3 years except this one, I go back to my hometown reluctantly. Few things are good about it, like the familiarity. I get to meet my old friends, but that's it. July also means the worst period of your life if you're a freshman just entering high school and higher education. 
 

@@ -8,7 +8,7 @@ tags:
     - showcase
 ---
 
-{% include video.html video="https://sxwvn-website-be.onrender.com/api/video/VIRS.mp4" %}
+{% include video.html video="-LHkpUYPj4U" %} 
 
 The villain in red suit is a manifestation of my childhood trauma. I picture them wearing a bright red suit because of redacted reasons that will serve as a clue to OSINT my real identity. Let's just say, that's what they like to wear. Which is kind of unfortunate because I always thought my favorite color is red (I don't know what's my current favorite color anymore...).
 
