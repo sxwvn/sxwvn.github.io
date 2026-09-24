@@ -135,7 +135,7 @@ Before I could respond, she continued. "I might not understand the technicality 
 
 I didn't speak a word. I just let her continue.
 
-"I could picure this cabin as a **safe space** between the open world and the sacred memories of the garden. There's a river nearby that you use as part of the garden's irrigation system, so it aids in flow of information! It piles up and becomes a *new* memory -- young sprouts growing alongside the dense woods. Eventually, as I interact more with the world around me by harvesting produce from the garden, renovating the cabin, painting the bench white, digging for treasure, and many more, I *change* the world around me. The person is **learning from and appreciating** my existence. They acknowledges me as I acknowledge them too. It's like signalling to each other, hey I'm human and I'm alive!"
+"I could picture this cabin as a **safe space** between the open world and the sacred memories of the garden. There's a river nearby that you use as part of the garden's irrigation system, so it aids in flow of information! It piles up and becomes a *new* memory -- young sprouts growing alongside the dense woods. Eventually, as I interact more with the world around me by harvesting produce from the garden, renovating the cabin, painting the bench white, digging for treasure, and many more, I *change* the world around me. The person is **learning from and appreciating** my existence. They acknowledges me as I acknowledge them too. It's like signalling to each other, hey I'm human and I'm alive!"
 
 I couldn't believe what I just heard. That's more or less how my creator described her world when she first planned on making it. 
 

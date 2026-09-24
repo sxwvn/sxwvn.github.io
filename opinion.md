@@ -4,7 +4,7 @@ title: Digital Rights!
 permalink: /opinion/
 ---
 
-The person behind this project believes that our personal data has been successfully commodified by the Big Tech monopoly. This has lead to consequences ranging from unfunny to un-democratic. The unfunny part being the fact that every small footprint of our digital existance being used to follow us around, and all of that for marketing purposes. 
+The person behind this project believes that our personal data has been successfully commodified by the Big Tech monopoly. This has lead to consequences ranging from unfunny to un-democratic. The unfunny part being the fact that every small footprint of our digital existence being used to follow us around, and all of that for marketing purposes. 
 
 "We care about your privacy, please allow some cookies" or whatever they say nowadays. 
 
